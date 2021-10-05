@@ -1,0 +1,39 @@
+#balkep{
+    width: 200px;
+    border: 1px solid  #1D1D4E;
+    margin-right: 10px;
+    box-shadow: 2px 2px 4px;
+}
+
+body{
+    color: #1D1D4E;
+    background-color: #E7E7FF;
+}
+
+.forras{
+    text-align: center;
+
+}
+table{
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px;
+}
+td{
+    border: 1px dotted black;
+    text-align:  right;
+    padding-right: 5px;
+
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+.jobbkep{
+    width: 350px;
+    border: 1px solid  #1D1D4E;
+    margin-right: 10px;
+    box-shadow: 2px 2px 4px;
+    margin-right: 47%;
+
+}
